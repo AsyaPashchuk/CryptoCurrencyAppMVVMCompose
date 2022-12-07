@@ -1,4 +1,4 @@
-package com.example.cryptocurrencyappmvvmcompose.ui.theme
+package com.example.cryptocurrencyappmvvmcompose.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
